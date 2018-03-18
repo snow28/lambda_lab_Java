@@ -1,0 +1,4 @@
+lambda
+print
+length
+name
